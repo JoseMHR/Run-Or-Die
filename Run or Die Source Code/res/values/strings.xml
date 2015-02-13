@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="home">Run or Die!</string>
+    <string name="app_name">Run or Die!</string>
+    <string name="start">Start</string>
+    <string name="exit">Exit</string>
+    <string name="returnText">Return</string>
+    <string name="more">More</string>
+    <string name="moreText">Thanks for download one of my first apps. I hope you enjoyed it!</string>
+	<string name="cafe">See more on the web</string>
+	
+</resources>

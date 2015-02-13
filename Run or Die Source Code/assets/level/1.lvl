@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="12000" height="780">	
+
+	<entity x="100" y="0" type="suelo"/>
+	<entity x="400" y="25" type="suelo"/>
+	<entity x="700" y="0" type="suelo"/>
+	<entity x="1000" y="50" type="suelo"/>
+	
+	<entity x="1300" y="0" type="suelo"/>
+	<entity x="1600" y="0" type="suelo"/>
+	<entity x="1900" y="0" type="suelo"/>
+	
+	<entity x="1100" y="150" type="platform1"/>
+	<entity x="1400" y="200" type="platform1"/>
+	<entity x="1500" y="250" type="coin"/>
+	<entity x="1700" y="300" type="platform1"/>
+	<entity x="2000" y="400" type="platform1"/>
+	<entity x="2300" y="500" type="platform1"/>
+	<entity x="2500" y="400" type="platform1"/>
+	<entity x="2700" y="500" type="platform1"/>
+	<entity x="3000" y="500" type="platform1"/>
+
+	<entity x="3300" y="0" type="suelo"/>
+	<entity x="3600" y="0" type="suelo"/>
+	
+	<entity x="3600" y="100" type="platform2"/>
+	<entity x="3600" y="150" type="coin"/>
+	<entity x="3800" y="200" type="platform2"/>
+	<entity x="4000" y="300" type="platform2"/>
+	<entity x="4200" y="350" type="platform2"/>
+	<entity x="4400" y="450" type="platform2"/>
+	<entity x="4600" y="500" type="platform2"/>
+	<entity x="4800" y="550" type="coin"/>
+	<entity x="4900" y="500" type="platform2"/>
+	<entity x="5100" y="500" type="platform2"/>
+	<entity x="5300" y="500" type="platform3"/>
+	
+	<entity x="5500" y="50" type="suelo"/>
+	<entity x="5800" y="40" type="suelo"/>
+	<entity x="6100" y="30" type="suelo"/>
+	<entity x="6500" y="20" type="suelo"/>
+	<entity x="6900" y="0" type="suelo"/>
+	<entity x="7300" y="20" type="suelo"/>
+	<entity x="7700" y="30" type="suelo"/>
+	<entity x="8100" y="0" type="suelo"/>
+	
+	<entity x="8350" y="100" type="platform3"/>
+	<entity x="8550" y="50" type="platform3"/>
+	<entity x="8750" y="100" type="platform3"/>
+	
+	<entity x="8900" y="0" type="suelo"/>
+	
+	<entity x="9200" y="20" type="platform1"/>
+	<entity x="9400" y="30" type="platform2"/>
+	<entity x="9700" y="30" type="platform1"/>
+	
+	<entity x="9900" y="0" type="suelo"/>
+	
+	<entity x="10100" y="100" type="platform1"/>
+	<entity x="10200" y="200" type="platform1"/>
+	<entity x="10400" y="200" type="platform2"/>
+	<entity x="10530" y="200" type="platform2"/>
+	<entity x="10660" y="200" type="platform2"/>
+	<entity x="10880" y="240" type="platform3"/>
+	<entity x="11100" y="330" type="platform3"/>
+	
+	<entity x="400" y="90" type="coin"/>
+	<entity x="10400" y="270" type="coin"/>
+	<entity x="10500" y="400" type="coin"/>
+	<entity x="10600" y="400" type="coin"/>
+	<entity x="11280" y="550" type="levelComplete"/>
+	<entity x="60" y="10" type="player"/>
+</level>

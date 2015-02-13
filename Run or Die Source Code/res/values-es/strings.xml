@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="home">¡Corre o muere!</string>
+    <string name="app_name">¡Corre o muere!</string>
+    <string name="start">Comenzar</string>
+    <string name="exit">Salir</string>
+    <string name="returnText">Regresar</string>
+    <string name="more">Mas</string>
+    <string name="moreText">Gracias por descargarte una de mis primeras aplicaciones. ¡Espero que te haya gustado!</string>
+	<string name="cafe">Mira mas en la web</string>
+
+</resources>
